@@ -3,5 +3,7 @@
 This is the first lab
 
 - [X] Create model
-- [ ] Create textures
-- [ ] Create shader
+- [X] Create textures
+- [X] Create shader
+
+>Shaders are pretty cool so far
